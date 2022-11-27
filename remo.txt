@@ -4,4 +4,3 @@ Hi iam in txt file and trying to update from git terminal to github.
 
 hi iam in github and try to update from vs code bash terminal.
 
-Hi iam in 7th line in vs code terminal.

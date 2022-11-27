@@ -1,3 +1,6 @@
 Hi iam in github and trying to update from git terminal
 
 Hi iam in txt file and trying to update from git terminal to github.
+
+hi iam in github and try to update from vs code bash terminal.
+

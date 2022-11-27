@@ -1,3 +1,5 @@
 Hi iam created a new test2 file.
 
-Hi iam in 3rd line of test2 file created from vs code.
+Hi iam in 3rd line of test2file in github and trying to update in remote.
+
+Hi aim in 4th line in test2 file in vs code.

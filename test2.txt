@@ -7,3 +7,5 @@ Hi aim in 4th line in test2 file in vs code.
 =======
 Hi iam in 4th line of test2 file in github and trying to get update from remote.
 >>>>>>> 527d5e670d38df5b871d1ad1133fb9d3c62e2f53
+
+Hi im in 11 th ine im in github.

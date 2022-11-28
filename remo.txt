@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 Hi iam in github and trying to update from git terminal
 
 Hi iam in txt file and trying to update from git terminal to github.
 
 hi iam in github and try to update from vs code bash terminal.
 
+=======
+Hi iam in github and trying to update from git terminal
+
+Hi iam in txt file and trying to update from git terminal to github.
+
+hi iam in github and try to update from vs code bash terminal.
+
+>>>>>>> ca0793952b67382b2b33cadc3d274d20ab37d55b
 hi iam in 7th line and trying to update with same line of github.

@@ -3,8 +3,3 @@ Im in github.
 im in local 1
 im in line 3 local
 im in line 4 local
-=======
-im in github 1
-im in line 3 github
-im in line 4 github
->>>>>>> 4897660a721a617c12a72cb0fc147fa5db322d9e

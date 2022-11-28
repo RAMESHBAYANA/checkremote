@@ -1,2 +1,6 @@
 Hi ramesh. updating from vs.
+<<<<<<< HEAD
 Hi vijay hope you fine.
+=======
+Hi ramesh. updating from github.
+>>>>>>> aa127833ee2111594c60999eb8acab1aff54587e

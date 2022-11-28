@@ -1,5 +1,4 @@
 Im in github.
-<<<<<<< HEAD
 im in local 1
 im in line 3 local
 im in line 4 local

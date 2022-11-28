@@ -1,0 +1,11 @@
+Hi ramesh. updating from vs.
+<<<<<<< HEAD
+Hi vijay hope you fine.
+=======
+Hi ramesh. updating from github.
+>>>>>>> aa127833ee2111594c60999eb8acab1aff54587e
+<<<<<<< HEAD
+Hi iam in vs.
+=======
+Hi im in github.
+>>>>>>> 05636c0501f29c4055a212dedd13263605d72fe2
